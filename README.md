@@ -6,7 +6,7 @@ Ese comando, trae todo el proyecto y lo deja localmente.
 
 Y unir la carpeta que se creo, con el proyecto que ya tengo.
 
-* git add /*
+* git add *
 
 Para agregar todos los elementos.
 
